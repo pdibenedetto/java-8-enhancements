@@ -1,0 +1,134 @@
+[vc_column width="1/2"]
+[vc_column_text el_class="red_text" css=".vc_custom_1437643677124{margin-bottom: 0px !important;padding-bottom: 0px !important;}"]
+<h3>N<span class="ampersand">&amp;</span>Drive Mobile Application Terms of Use and End User License Agreement</h3>
+[/vc_column_text]
+
+[vc_column_text css_animation="" css=".vc_custom_1437643226202{margin-top: 0px !important;padding-top: 0px !important;}"]
+<a id="one" name="one"></a>
+<span class="RedLeftMenu">1. LICENSE GRANT</span>
+Subject to the terms of this Agreement, the Company grants you a limited, revocable, non-exclusive, and nontransferable license to download, install, access, and use the Application for your personal, non-commercial use on a single mobile device owned or otherwise controlled by you (“Mobile Device”).
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one2" name="two"></a><span class="RedLeftMenu">2. END USER OBLIGATIONS</span>
+You shall at all times during the term of this Agreement: (a) use your best efforts to keep your passwords secure and confidential; (b) use commercially reasonable efforts to prevent unauthorized access to your account, and notify the Company promptly of any such unauthorized access; and (c) use the Application only in accordance with this Agreement, the Telematics Service’s User Guide, and applicable law.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one3" name="three"></a><span class="RedLeftMenu">3. LICENSE RESTRICTIONS</span>
+You shall not:
+<br/>
+(a)	copy the Application, except as expressly permitted by this license;
+<br/>
+(b)	modify, translate, adapt, or otherwise create derivative works or improvements, whether or not patentable, of the Application;
+<br/>
+(c)	reverse engineer, disassemble, decompile, decode, or otherwise attempt to derive or gain access to the source code of the Application or any part thereof;
+<br/>
+(d)	remove, delete, alter, or obscure any trademarks or any copyright, trademark, patent, or other intellectual property or proprietary rights notices from the Application, including any copy thereof;
+<br/>
+(e)	damage, destroy, disrupt, disable, impair, interfere with, or otherwise impede or harm in any manner the Company&apos;s or Cambridge Mobile Telematics&apos; (“CMT”) provision of its respective services related to the Application to any third party, in whole or in part;
+<br/>
+(f)	access or use the Application for purposes of competitive analysis of the Application, the development, provision, or use of a competing software service or product or any other purpose that is to the Company’s or CMT’s detriment or commercial disadvantage;
+<br/>
+(g)	use the Application in any manner or for any purpose that infringes, misappropriates, or otherwise violates any intellectual property right or other right of any third party, or that violates any applicable law; or
+<br/>
+(h)	rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer, or otherwise make available the Application, or any features or functionality of the Application, to any third party for any reason, including by making the Application available on a network where it is capable of being accessed by more than one device at any time.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one4" name="four"></a>
+<span class="RedLeftMenu">4. RESERVATION OF RIGHTS</span>
+The Application is the property of CMT and provided to the Company under license. You acknowledge and agree that the Application is also provided to you under a sublicense from the Company and is not sold to you. You do not acquire any ownership interest in the Application under this Agreement, or any other rights thereto other than to use the Application in accordance with the license granted, and subject to all terms, conditions, and restrictions, under this Agreement. The Company and its licensors and service providers reserve and shall retain their respective right, title, and interest in and to the Application, including all copyrights, trademarks, and other intellectual property rights therein or relating thereto, except as expressly granted to you in this Agreement.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one5" name="five"></a><span class="RedLeftMenu">5. COLLECTION AND USE OF YOUR INFORMATION</span>
+You acknowledge that when you download, install, or use the Application, Company may use automatic means to collect information about your Mobile Device and about your use of the Application. Specifically, the Application records data from your Mobile Device to determine (a) acceleration intensity, (b) hard braking, (c) hard cornering, (d) speed, (e) distance travelled, and (f) phone motion while driving. You also may be required to provide certain information about yourself as a condition to downloading, installing, or using the Application or certain of its features or functionality. Data collected through the Application is used to calculate your driving score and provide you with feedback on driving performance. In addition, the data collected may be used to allow you to earn points that can be exchanged for certain rewards. Rewards may include from time to time, merchandise, promotional items, product or service discounts, memberships or other special offers. Participation in the N&Drive Mobile Application program does not guarantee you will earn rewards, which rewards, if earned, may be provided by the Company or other third-parties and may be changed from time to time at the Company’s discretion. The data is collected by CMT and then shared with the Company. The Company and CMT do not sell or otherwise disclose this data to any third party except as required by law.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one6" name="six"></a><span class="RedLeftMenu">6. UPDATES</span>
+The Company may from time to time in its sole discretion develop and provide Application updates, which may include upgrades, bug fixes, patches, other error corrections, and/or new features (collectively, including related documentation, “Updates”). Updates may also modify or delete in their entirety certain features and functionality. You agree that the Company has no obligation to provide any Updates or to continue to provide or enable any particular features or functionality. You shall promptly download and install all Updates and acknowledge and agree that the Application or portions thereof may not properly operate should you fail to do so. You further agree that all Updates will be deemed part of the Application and be subject to all terms and conditions of this Agreement.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one7" name="seven"></a><span class="RedLeftMenu">7. THIRD-PARTY MATERIALS</span>
+The Application may display, include, or make available third-party content (including data, information, applications, and other products, services, and/or materials) or provide links to third-party websites or services, including through third-party advertising (“Third-Party Materials”). You acknowledge and agree that the Company is not responsible for Third-Party Materials, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality, or any other aspect thereof. The Company does not assume and will not have any liability or responsibility to you or any other person or entity for any Third-Party Materials. Third-Party Materials and links thereto are provided solely as a convenience to you, and you access and use them entirely at your own risk and subject to such third parties’ terms and conditions.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one8" name="eight"></a><span class="RedLeftMenu">8. TERM AND TERMINATION</span>
+The term of Agreement commences when you download the Application and will continue in effect until terminated by you or Company as set forth in this Section 8 (Term and Termination). You may terminate this Agreement at any time by deleting the Application and all copies thereof from your Mobile Device. The Company may terminate this Agreement at any time without notice if it ceases to support the Application, which Company may do in its sole discretion. In addition, this Agreement will terminate immediately and automatically without any notice if you violate any of the terms and conditions of this Agreement. Upon termination (i) all rights granted to you under this Agreement will also terminate and (ii) you must cease all use of the Application and delete all copies of the Application from your Mobile Device and account. Termination will not limit any of Company’s rights or remedies at law or in equity. Customer acknowledges and agrees that a breach or threatened breach by Customer of any of its obligations under Section 1 (License Grant), Section 3 (License Restrictions) or Section 9 (Confidential Information), would cause the Company irreparable harm for which monetary damages would not be an adequate remedy and that, in the event of such breach or threatened breach, Company will be entitled to equitable relief, including a restraining order, an injunction, specific performance, and any other relief that may be available from any court, without any requirement to post a bond or other security, or to prove actual damages or that monetary damages are not an adequate remedy. Such remedies are not exclusive and are in addition to all other remedies that may be available at law, in equity, or otherwise.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one9" name="nine"></a><span class="RedLeftMenu">9. CONFIDENTIAL INFORMATION</span>
+Confidential Information means all non-public information disclosed by a party (“Discloser”) to the other party (“Recipient”), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure (“Confidential Information”). For the sake of clarity, the Application’s source code and firmware are the Confidential Information of CMT. The Recipient must use the same degree of care that it uses to protect the confidentiality of its own confidential information (but in no event less than reasonable care) not to disclose or use any Confidential Information of the Discloser for any purpose outside the scope of this Agreement. The Recipient must make commercially reasonable efforts to limit access to Confidential Information of Discloser to those of its employees and contractors who need such access for purposes consistent with this Agreement and have signed a confidentiality agreement with Recipient.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one10" name="ten"></a><span class="RedLeftMenu">10. DISCLAIMER OF WARRANTIES</span>
+THE APPLICATION IS PROVIDED TO YOU “AS IS” AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, THE COMPANY, ON ITS OWN BEHALF AND ON BEHALF OF ITS AFFILIATES AND ITS AND THEIR RESPECTIVE LICENSORS AND SERVICE PROVIDERS, EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE APPLICATION, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, AND WARRANTIES THAT MAY ARISE OUT OF COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE, OR TRADE PRACTICE. WITHOUT LIMITATION TO THE FOREGOING, COMPANY PROVIDES NO WARRANTY OR UNDERTAKING, AND MAKES NO REPRESENTATION OF ANY KIND THAT THE APPLICATION WILL MEET YOUR REQUIREMENTS, ACHIEVE ANY INTENDED RESULTS, BE COMPATIBLE, OR WORK WITH ANY OTHER SOFTWARE, APPLICATIONS, SYSTEMS, OR SERVICES, OPERATE WITHOUT INTERRUPTION, MEET ANY PERFORMANCE OR RELIABILITY STANDARDS, OR BE ERROR-FREE, OR THAT ANY ERRORS OR DEFECTS CAN OR WILL BE CORRECTED. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF OR LIMITATIONS ON IMPLIED WARRANTIES OR THE LIMITATIONS ON THE APPLICABLE STATUTORY RIGHTS OF A CONSUMER, SO SOME OR ALL OF THE ABOVE EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one11" name="eleven"></a><span class="RedLeftMenu">11. LIMITATION OF LIABILITY</span>
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE COMPANY OR ITS AFFILIATES, OR ANY OF ITS OR THEIR RESPECTIVE LICENSORS OR SERVICE PROVIDERS, HAVE ANY LIABILITY ARISING FROM OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APPLICATION FOR: (A) PERSONAL INJURY, PROPERTY DAMAGE, LOST PROFITS, COST OF SUBSTITUTE GOODS OR SERVICES, LOSS OF DATA, LOSS OF GOODWILL, BUSINESS INTERRUPTION, COMPUTER FAILURE OR MALFUNCTION, OR ANY OTHER CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, OR PUNITIVE DAMAGES; AND (B)  DIRECT DAMAGES IN AMOUNTS THAT IN THE AGGREGATE EXCEED THE AMOUNT ACTUALLY PAID BY YOU TO THE COMPANY IN THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE CLAIM. THE FOREGOING LIMITATIONS WILL APPLY WHETHER SUCH DAMAGES ARISE OUT OF BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE AND REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE OR COMPANY WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW CERTAIN LIMITATIONS OF LIABILITY SO SOME OR ALL OF THE ABOVE LIMITATIONS OF LIABILITY MAY NOT APPLY TO YOU.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one12" name="twelve"></a><span class="RedLeftMenu">12. INDEMNIFICATION</span>
+You agree to indemnify, defend, and hold harmless the Company and its officers, directors, employees, agents, affiliates, successors, and assigns from and against any and all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, or expenses of whatever kind, including reasonable attorneys’ fees, arising from or relating to your use or misuse of the Application or your breach of this Agreement, including but not limited to any content you submit or make available through this Application.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one13" name="thirteen"></a><span class="RedLeftMenu">13. EXPORT REGULATION</span>
+The Application may be subject to U.S. export control laws, including the U.S. Export Administration Act and its associated regulations. You shall not, directly or indirectly, export, re-export, or release the Application to, or make the Application accessible from, any jurisdiction or country to which export, re-export, or release is prohibited by law, rule, or regulation. You shall comply with all applicable federal laws, regulations, and rules, and complete all required undertakings (including obtaining any necessary export license or other governmental approval), prior to exporting, re-exporting, releasing, or otherwise making the Application available outside the U.S.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one14" name="fourteen"></a><span class="RedLeftMenu">14. SEVERABILITY</span>
+If any provision of this Agreement is illegal or unenforceable under applicable law, the remainder of the provision will be amended to achieve as closely as possible the effect of the original term and all other provisions of this Agreement will continue in full force and effect.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one15" name="fifteen"></a><span class="RedLeftMenu">15. GOVERNING LAW</span>
+This Agreement is governed by and construed in accordance with the internal laws of the Commonwealth of Massachusetts without giving effect to any choice or conflict of law provision or rule. Any legal suit, action, or proceeding arising out of or related to this Agreement or the Application shall be instituted exclusively in the federal courts of the United States or the courts of the Commonwealth of Massachusetts in each case located in the City of Boston. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one16" name="sizteen"></a><span class="RedLeftMenu">16. LIMITATION OF TIME TO FILE CLAIMS</span>
+ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE APPLICATION MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES OTHERWISE SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one17" name="seventeen"></a><span class="RedLeftMenu">17. MODIFICATIONS</span>
+In its sole discretion and without notice or warning, the Company reserves the right, for any reason, to terminate, change or suspend any aspect of the Terms, at any time or for any reason.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one18" name="eighteen"></a><span class="RedLeftMenu">18. ENTIRE AGREEMENT</span>
+This Agreement constitutes the entire agreement between you and the Company with respect to the Application and supersede all prior or contemporaneous understandings and agreements, whether written or oral, with respect to the Application.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one19" name="nineteen"></a><span class="RedLeftMenu">19. THIRD PARTY BENEFICIARY</span>
+The parties hereby designate CMT as a third-party beneficiary under this Agreement, having the right to enforce the terms of same.
+[/vc_column_text]
+
+[vc_column_text css_animation=""]
+<a id="one20" name="twent"></a><span class="RedLeftMenu">20. WAIVER</span>
+No failure to exercise, and no delay in exercising, on the part of either party, any right or any power hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right or power hereunder preclude further exercise of that or any other right hereunder. In the event of a conflict between this Agreement and any applicable purchase or other terms, the terms of this Agreement shall govern.
+[/vc_column_text]
+
+
+19.	.
+
+20.	.
+
+
+[vc_column_text css_animation=""]Copyright ©2015, The Norfolk <span class="ampersand">&amp;</span> Dedham Group® All rights reserved.
+
+[/vc_column_text][vc_column_text]<a class="back_to_top" href="#top">BACK TO TOP</a>
+
+[/vc_column_text][/vc_column][vc_column width="1/4" el_class=" hidden-xs"][vc_single_image image="2009" alignment="" style="" border_color="grey" img_link_large="" img_link_target="_self" css_animation="" el_class="page_img" img_size="full"][/vc_column][/vc_row]
